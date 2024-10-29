@@ -1,1 +1,2 @@
 Practice to commit changes with git.
+More practice to pull changes.
